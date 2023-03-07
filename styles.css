@@ -162,7 +162,7 @@ p{
 }
 
 /* small-screens starts from here */
-@media (max-width: 400px){
+@media (max-width: 470px){
     .nav-bar{
         display: none;
     }
