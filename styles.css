@@ -203,7 +203,21 @@ p{
         font-size: 3rem;
     }
 
+    .lower-container{
+        align-items: center;
+        justify-content: center;
+    }
+
     .lower_col img{
-        width: 50%;
+        width: 20%;
+    }
+
+    .lower_col div{
+        width: 80%;
+        padding: 2rem 0;
+    }
+
+    .lower_col div p{
+        width: 70%;
     }
 }
