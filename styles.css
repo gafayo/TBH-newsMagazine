@@ -193,7 +193,7 @@ p{
     }
 
     .nav-list li:nth-child(1){
-        margin-top: 2rem;
+        margin-top: 3rem;
     }
 
     .menu-bar{
@@ -254,4 +254,36 @@ p{
     .lower_col div p{
         width: 90%;
     }
+}
+
+footer{
+    background: var(---very-dark-blue);
+}
+
+footer .footer-lists{
+    margin: 0 auto;
+    padding: 2rem 0;
+    color: var(---off-white);
+    display: flex;
+    justify-content: space-around;
+}
+
+footer ul li:nth-child(1){
+    list-style-type: none;
+    text-transform: capitalize;
+    color: var(---soft-red);
+}
+
+footer ul li{
+    list-style-type: square;
+}
+
+footer .rights{
+    text-align: center;
+    color: var(---off-white);
+}
+
+svg{
+    display: block;
+    padding-bottom: 0;
 }
