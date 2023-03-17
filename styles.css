@@ -266,6 +266,11 @@ footer .footer-lists{
     color: var(---off-white);
     display: flex;
     justify-content: space-around;
+    gap: 2rem;
+}
+
+footer ul{
+    border: 2px solid red;
 }
 
 footer ul li:nth-child(1){
