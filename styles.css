@@ -265,13 +265,10 @@ footer .footer-lists{
     padding: 2rem 0;
     color: var(---off-white);
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     gap: 2rem;
 }
-
-footer ul{
-    border: 2px solid red;
-}
+ 
 
 footer ul li:nth-child(1){
     list-style-type: none;
