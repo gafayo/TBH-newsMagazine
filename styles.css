@@ -258,6 +258,7 @@ p{
 
 footer{
     background: var(---very-dark-blue);
+    max-width: 100%;
 }
 
 footer .footer-lists{
